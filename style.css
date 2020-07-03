@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #ececec;
+}
+main {
+    background-color: #ffffff;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: black;
+}
+
